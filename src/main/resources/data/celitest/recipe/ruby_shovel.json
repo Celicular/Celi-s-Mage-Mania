@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+	"category": "equipment",
+  "pattern": ["R", "S", "S"],
+  "key": {
+		"R": "#celitest:ruby_tool_materials",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "celitest:ruby_shovel",
+    "count": 1
+  }
+}

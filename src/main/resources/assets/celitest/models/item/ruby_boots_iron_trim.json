@@ -1,0 +1,6 @@
+{
+  "parent": "celitest:item/ruby_boots",
+  "textures": {
+    "layer1": "minecraft:trims/items/boots_trim_iron"
+  }
+}

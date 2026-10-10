@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["celitest:ruby_block"],
+  "result": {
+    "id": "celitest:ruby",
+    "count": 9
+  }
+}

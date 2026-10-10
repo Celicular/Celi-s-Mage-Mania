@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"category": "misc",
+  "ingredient": "celitest:ruby",
+  "result": {
+    "id": "celitest:refined_ruby"
+  },
+  "experience": 1.0,
+  "cookingtime": 200,
+  "group": "refined_ruby"
+}

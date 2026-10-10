@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "celitest:block/ruby_block"
+		}
+	}
+}

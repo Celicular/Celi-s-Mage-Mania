@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": ["SSS", "RRR", "SSS"],
+	"key": {
+		"S": "celitest:magerald_shard",
+		"R": "celitest:refined_ruby"
+	},
+	"result": {
+		"id": "celitest:mages_altar",
+		"count": 1
+	}
+}

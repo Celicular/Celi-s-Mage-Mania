@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#0b0920"/>
+  <rect x="4" y="4" width="120" height="120" rx="18" fill="#17133e" stroke="#493a8e" stroke-width="2"/>
+  <circle cx="64" cy="64" r="52" fill="#35266c" opacity="0.32"/>
+  <circle cx="64" cy="64" r="48" fill="none" stroke="#765be1" stroke-width="1" opacity="0.6"/>
+  <circle cx="64" cy="64" r="43" fill="none" stroke="#2e9fd0" stroke-width="1" opacity="0.35"/>
+  <line x1="64" y1="16" x2="64" y2="112" stroke="#f1c96b" stroke-width="3" opacity="0.7"/>
+  <line x1="25" y1="92" x2="103" y2="36" stroke="#f1c96b" stroke-width="3" opacity="0.55"/>
+  <circle cx="64" cy="64" r="35" fill="none" stroke="#e5b85d" stroke-width="4" opacity="0.88"/>
+  <circle cx="64" cy="64" r="31" fill="none" stroke="#fff0a4" stroke-width="1" opacity="0.65"/>
+  <polygon points="64,13 70,21 64,29 58,21" fill="#63e9ff" stroke="#c9fbff" stroke-width="1"/>
+  <polygon points="115,64 107,70 99,64 107,58" fill="#ff596f" stroke="#ffd0d8" stroke-width="1"/>
+  <polygon points="64,115 70,107 64,99 58,107" fill="#77e698" stroke="#d9ffe3" stroke-width="1"/>
+  <polygon points="13,64 21,70 29,64 21,58" fill="#ffd969" stroke="#fff2bb" stroke-width="1"/>
+  <polygon points="29,31 34,35 31,41 25,38" fill="#8d70ff"/>
+  <polygon points="99,31 103,38 97,41 94,35" fill="#42d9f5"/>
+  <polygon points="29,97 25,90 31,87 34,93" fill="#ff726e"/>
+  <polygon points="99,97 94,93 97,87 103,90" fill="#ffe078"/>
+  <circle cx="64" cy="64" r="28" fill="#8e2e72" opacity="0.32"/>
+  <polygon points="64,29 84,51 78,80 64,99 50,80 44,51" fill="#471838" stroke="#ffb1d4" stroke-width="2"/>
+  <polygon points="64,31 64,58 50,51" fill="#d94c79"/>
+  <polygon points="64,31 84,51 64,58" fill="#ff6b82"/>
+  <polygon points="50,51 64,58 64,97 50,80" fill="#9b214f"/>
+  <polygon points="64,58 84,51 78,80 64,97" fill="#d52e5f"/>
+  <polygon points="64,32 70,52 64,58 58,52" fill="#ffb0cb" opacity="0.72"/>
+  <polygon points="51,45 59,50 55,63 64,72 59,83 53,77 58,64 49,54" fill="#55dcff" stroke="#b8f7ff" stroke-width="1"/>
+  <polygon points="77,45 69,50 73,63 64,72 69,84 75,77 70,64 79,54" fill="#299bcf" stroke="#8deaff" stroke-width="1"/>
+  <polygon points="64,57 69,64 64,72 59,64" fill="#d8fbff" opacity="0.9"/>
+  <polygon points="64,73 69,84 64,94 59,84" fill="#49bfea" opacity="0.8"/>
+  <line x1="39" y1="48" x2="43" y2="45" stroke="#fff0a4" stroke-width="2"/>
+  <line x1="88" y1="45" x2="92" y2="48" stroke="#fff0a4" stroke-width="2"/>
+  <line x1="41" y1="82" x2="37" y2="85" stroke="#7ce9ff" stroke-width="2"/>
+  <line x1="87" y1="85" x2="91" y2="82" stroke="#ff7185" stroke-width="2"/>
+  <circle cx="38" cy="57" r="2" fill="#77eaff"/>
+  <circle cx="90" cy="59" r="2" fill="#ff6a7f"/>
+  <circle cx="47" cy="96" r="2" fill="#ffe27a"/>
+  <circle cx="81" cy="96" r="2" fill="#7bed9a"/>
+</svg>

@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"package": "com.celi.test.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ExampleClientMixin",
+		"MageriteEquipmentLayerRendererMixin",
+		"MinecraftStaffInputMixin",
+		"MultiPlayerGameModeStaffInputMixin",
+		"MultiPlayerGameModeStaffAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

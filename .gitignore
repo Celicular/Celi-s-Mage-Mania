@@ -1,0 +1,75 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# ai tooling and local agent state
+.agents/
+.ai/
+.omnirush/
+.opencode/omnirush/
+.opencode/node_modules/
+.aider*
+.claude/*.local.*
+.cursor/*.local.*
+.windsurf/*.local.*
+
+# local secrets
+.env
+.env.*
+!.env.example
+
+# python tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# logs and generated diagnostics
+*.log
+*.log.*
+
+# operating system files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "celitest:ruby"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "celitest:ruby"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "celitest:ruby"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+	"required": true,
+	"package": "com.celi.test.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"ExampleMixin",
+		"LivingEntityMixin",
+		"PlayerManaAttributeMixin",
+		"ServerPlayerManaMixin",
+		"LivingEntityManaEquipmentMixin",
+		"ServerPlayerAffinityMixin",
+		"LevelWeatherAccessor",
+		"LivingEntityAffinityDamageMixin",
+		"EntityAffinityLavaMixin",
+		"PlayerAffinityStaffAttackMixin",
+		"LivingEntityAffinityEffectsMixin",
+		"ServerPlayerAffinityEffectsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

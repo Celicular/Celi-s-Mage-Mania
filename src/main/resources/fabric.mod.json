@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "celitest",
+	"version": "${version}",
+	"name": "Celi's Mage Chronicles",
+	"description": "A Fabric magic expansion featuring Magerald resources, Magerite armor, mana, affinity stones, and the Mage's Staff.",
+	"authors": [
+		"Celi / Himadri"
+	],
+	"contact": {
+		"email": "hsg090907.jsr@gmail.com"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/celitest/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.celi.test.CeliTest"
+		],
+		"client": [
+			"com.celi.test.client.CeliTestClient"
+		],
+		"fabric-datagen": [
+			"com.celi.test.client.CeliTestDataGenerator"
+		]
+	},
+	"mixins": [
+		"celitest.mixins.json",
+		{
+			"config": "celitest.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

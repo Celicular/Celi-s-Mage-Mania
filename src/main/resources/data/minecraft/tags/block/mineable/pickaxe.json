@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"celitest:ruby_block",
+		"celitest:magerald_ore",
+		"celitest:mages_altar"
+	]
+}

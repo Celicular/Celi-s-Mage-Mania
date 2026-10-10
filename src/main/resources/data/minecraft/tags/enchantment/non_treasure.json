@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "celitest:mana_store",
+    "celitest:mana_regen"
+  ]
+}

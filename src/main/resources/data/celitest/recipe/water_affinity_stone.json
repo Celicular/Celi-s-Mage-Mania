@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": ["SSS", "SCS", "SSS"],
+	"key": {
+		"S": "celitest:magerald_shard",
+		"C": "minecraft:water_bucket"
+	},
+	"result": {
+		"id": "celitest:water_affinity_stone",
+		"count": 1
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "celitest:ruby_helmet",
+    "celitest:ruby_chestplate",
+    "celitest:ruby_leggings",
+    "celitest:ruby_boots"
+  ]
+}

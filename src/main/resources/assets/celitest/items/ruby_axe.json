@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "celitest:item/ruby_axe_charged"
+    },
+    "on_false": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:use_duration",
+        "entries": [
+          {
+            "threshold": 20.0,
+            "model": {
+              "type": "minecraft:model",
+              "model": "celitest:item/ruby_axe_charged"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "celitest:item/ruby_axe"
+        }
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "celitest:item/ruby_axe"
+      }
+    }
+  }
+}
